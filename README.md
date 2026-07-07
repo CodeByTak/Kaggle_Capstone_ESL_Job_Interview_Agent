@@ -1,4 +1,4 @@
-# Kaggle_Capstone_ESL_Job_Interview_Multi_Agent
+# Kaggle_Capstone_ESL_Job_Interview_Multi_Agent 
  Practice Makes Confident: A Multi-Agent ESL Interview Coach.  Helping English-language learners rehearse high-stakes conversations — with silent correction, honest guardrails, and zero real-world advice given by mistake.
 
 ESL Interview Coach — A Multi-Agent Practice System
@@ -8,6 +8,7 @@ Track: Agents for Good
 
 Helping English-language learners rehearse high-stakes conversations — with silent correction, honest guardrails, and zero real-world advice given by mistake.
 
+<img width="1536" height="768" alt="dhsnbabsndndmdmnahahjsb_Friendly_minimalist_illustration_of_t_f582b53b-e01a-464f-a063-1a73c26c2c64_3" src="https://github.com/user-attachments/assets/734ef2ff-5ccd-48a9-a2e5-c2c112778dad" />
 
 
 
