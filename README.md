@@ -8,7 +8,7 @@ Track: Agents for Good
 
 Helping English-language learners rehearse high-stakes conversations — with silent correction, honest guardrails, and zero real-world advice given by mistake.
 
-Show Image
+
 
 
 The Problem
